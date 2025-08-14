@@ -1,4 +1,4 @@
-# EURUSD Behavior Analysis and Predictive Modeling
+# EURUSD-behavior-analysis-and-predictive-modeling-DL-ML
 
 This project analyzes and models the behavior of the EUR/USD exchange rate using historical data, time series analysis, and machine learning/deep learning techniques. The goal is to forecast currency movements and support data-driven decision-making in the financial domain.
 
