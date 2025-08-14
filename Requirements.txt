@@ -1,0 +1,13 @@
+pandas_market_calendars
+matplotlib
+plotly
+seaborn
+numpy
+pandas
+scipy
+statsmodels
+keras-tuner
+tensorflow
+scikit-learn
+xgboost
+openpyxl
